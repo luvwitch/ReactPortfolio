@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Day Planner",
+        "image": "https://luvwitch.github.io/assets/scheduler.jpg",
+        "repolink":"https://github.com/luvwitch/Day-Planner",
+        "livelink": "https://luvwitch.github.io/Day-Planner/"
+    },
+    {
+        "id": 2,
+        "title": "Home Cooked Comfort",
+        "image": "https://luvwitch.github.io/assets/homecooked.jpg",
+        "repolink": "https://github.com/TChristensenDrumz/Home-Cooked-Comfort",
+        "livelink": "https://tchristensendrumz.github.io/Home-Cooked-Comfort/" 
+    },
+    {
+        "id": 3,
+        "title": "Italia Today",
+        "image": "https://luvwitch.github.io/assets/italiatoday.png",
+        "repolink": "https://github.com/mfitzwinick/italy-all-the-way",
+        "livelink": "https://nameless-plateau-64183.herokuapp.com/index.html"
+    }
+]
